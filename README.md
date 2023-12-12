@@ -19,7 +19,5 @@ TScrollBar<br>
 TGroupBox<br>
 TRadioGroup<br>
 TCheckGroup<br>
-TFrame         -  not implemented and will not<br>
-TActionList    -  not implemented and will not<br>
 <br>
 Download the demo and start the update application, a few seconds later you will see the compiler, just click compile and open the resulting index.html
