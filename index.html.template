@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+  <title>xProject F9 - Database demo Genres</title>
+  <link rel="stylesheet" type="text/css" id="theme" onerror="window.themeLoaded = false; console.log('theme css not loaded');" onload="window.themeLoaded = true; console.log('theme css loaded');" href="css/theme-modern.css"></link>
+  <link rel="stylesheet" type="text/css" href="css/tabulator_midnight.css">
+	<script type="text/javascript" src="js/Rainbow.js"></script>
+	<script type="text/javascript" src="js/tabulator.min.js"></script>
+</head>
+<body>
+  <script>
+  	window.addEventListener("load", rtl.run)
+  </script>
+	<div id="pasjsconsole"></div>
+	<div id="Rainbow">
+
+	</div>
+</body>
+</html>

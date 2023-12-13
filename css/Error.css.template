@@ -1,0 +1,17 @@
+#frmError_mError {
+  position: absolute;
+  top: 10px;
+  -right: 10px;
+  -bottom: 40px;
+  left: 10px;
+  width: calc( 100% - 23px );
+  height: calc( 100% - 73px );
+}
+
+#frmError_bClose {
+  position: absolute;
+  right: 40px;
+  width: 120px;
+  bottom: 20px;
+}
+
