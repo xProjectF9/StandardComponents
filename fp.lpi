@@ -84,11 +84,6 @@
         </Win32>
       </Options>
     </Linking>
-    <Other>
-      <ExecuteAfter>
-        <Command Value="./c.sh"/>
-      </ExecuteAfter>
-    </Other>
   </CompilerOptions>
   <Debugging>
     <Exceptions>
